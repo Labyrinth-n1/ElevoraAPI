@@ -1,0 +1,8 @@
+tempfile
+python-dotenv
+fastapi
+uvicorn
+python-multipart
+pymupdf
+python-dotenv
+google-generativeai
