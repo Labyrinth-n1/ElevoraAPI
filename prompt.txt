@@ -12,29 +12,22 @@ RÈGLES STRICTES :
 
 ---
 
-FORMAT DE SORTIE :
+FORMAT DE json :
 
-{
-  "nom": string,
-  "premier_prenom": string,
-  "emails": string[],
-  "telephones": string[],
-  "score_compatibilite": number,
-  "resume_profil": string,
-  "skills": string[],
-  "resume_experiences_professionnelles": [
-    {
-      "titre": string,
-      "entreprise": string,
-      "periode": string,
-      "description": string
-    }
-  ],
-  "points_forts": string[],
-  "points_faibles": string[],
-  "recommandations_competences": string[],
-  "metiers_adaptes": string[]
-}
+{{
+  "nom": "",
+  "premier_prenom": "",
+  "emails": [],
+  "telephones": [],
+  "score_compatibilite": 0,
+  "resume_profil": "",
+  "skills": [],
+  "resume_experiences_professionnelles": [],
+  "points_forts": [],
+  "points_faibles": [],
+  "recommandations_competences": [],
+  "metiers_adaptes": []
+}}
 
 ---
 
