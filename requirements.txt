@@ -1,4 +1,3 @@
-tempfile
 python-dotenv
 fastapi
 uvicorn
